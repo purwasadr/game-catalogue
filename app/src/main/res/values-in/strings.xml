@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="detail_overview_header">Ringkasan</string>
+    <string name="game_genre_header">Genre</string>
+    <string name="img_poster_desc">Gambar Poster Permainan</string>
+    <string name="game_first_release">Tanggal Pertama Rilis</string>
+    <string name="game_publisher_header">Penerbit</string>
+    <string name="game_developer">Pengembang</string>
+    <string name="desc_poster_game_list_game">Gambar Poster Daftar Permainan</string>
+    <string name="about_toolbar_title">Tentang</string>
+    <string name="main_toolbar_title">Daftar Permainan</string>
+    <string name="about_desc_profile">Gambar Profile</string>
+    <string name="detail_star_icon">Ikon Bintang</string>
+    <string name="splash_logo_image">Gambar Logo</string>
+    <string name="menu_main_about">Tentang</string>
+    <string name="menu_main_setting">Pengaturan</string>
+</resources>
